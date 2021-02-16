@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -24,10 +24,12 @@ namespace GitPractice.Data
 
         //hello
 
+        //goodbye
+
+
         // "One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them."
 
         //Added this comment on the adam branch
 
         //Comment 2 on adam branch
-    }
-}
+
