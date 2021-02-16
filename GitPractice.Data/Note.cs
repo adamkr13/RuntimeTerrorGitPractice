@@ -25,5 +25,7 @@ namespace GitPractice.Data
         //hello
 
         //Added this comment on the adam branch
+
+        //Comment 2 on adam branch
     }
 }
