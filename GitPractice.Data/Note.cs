@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -24,8 +24,10 @@ namespace GitPractice.Data
 
         //hello
 
+        //goodbye
+
+
         //Added this comment on the adam branch
 
         //Comment 2 on adam branch
-    }
-}
+
