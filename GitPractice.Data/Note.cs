@@ -23,5 +23,9 @@ namespace GitPractice.Data
         public DateTimeOffset? ModifiedUtc { get; set; }
 
         //hello
+
+        //Added this comment on the adam branch
+
+        //Comment 2 on adam branch
     }
 }
